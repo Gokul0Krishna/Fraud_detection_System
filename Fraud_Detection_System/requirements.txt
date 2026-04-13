@@ -1,0 +1,8 @@
+pandas
+redis
+pymongo
+xgboost
+scikit-learn
+faker
+python-dotenv
+ipykernel
