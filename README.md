@@ -1,6 +1,6 @@
 # Serious Projects Repository
 
-A collection of high-impact engineering projects focusing on scalable architectures, machine learning, and real-time data processing.
+>A collection of high-impact engineering projects focusing on scalable architectures, machine learning, and real-time data processing.
 
 ## 📁 Repository Projects
 
